@@ -135,6 +135,30 @@ Key pain points:
 
 ---
 
+### **H. Loss Analysis**
+
+**Total Losses:** **–SAR 93,671.46**
+
+**By Product (Top Loss Drivers):**
+
+* PROD\_008 — **–SAR 12,019.02**
+* PROD\_027 — **–SAR 5,740.05**
+* PROD\_049 — **–SAR 5,351.69**
+* PROD\_039 — **–SAR 5,303.75**
+* PROD\_009 — **–SAR 5,255.05**
+* Top 10 SKUs account for **\~66%** of total losses.
+
+**By Retailer:**
+
+* Nahdi — **–SAR 18,507.03**
+* Al-Dawaa — **–SAR 13,927.76**
+* Carrefour — **–SAR 11,418.85**
+* Panda — **–SAR 11,142.00**
+* Watsons — **–SAR 11,072.88**
+* Losses are heavily **physical-channel driven**, with e-commerce (Noon) contributing only **0.9%** of total loss.
+
+
+---
 ## **3. Strategic Implications**
 
 1. **Shift from blanket discounting to precision targeting** — focus on high-elasticity SKUs and high-ROI region–retailer–SKU triples.
