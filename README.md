@@ -9,7 +9,7 @@ Key pain points:
 * **All promo types and trade investments fail to generate positive ROI**.
 * **Mismatch between price elasticity and promo targeting** — heavy discounts are applied to low-responsiveness SKUs.
 * **Competitive share loss** is concentrated in specific SKU–region–retailer combinations, indicating targeted competitive threats.
-* ** with total net losses of SAR 93,671.46  **
+* **With total net losses of**  SAR 93,671.46 
 
 ---
 
