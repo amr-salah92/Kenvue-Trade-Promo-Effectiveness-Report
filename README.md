@@ -1,5 +1,3 @@
-Write The following report in Markdown 
-
 # **Kenvue Trade & Promo Effectiveness Report**
 
 ## **1. Executive Summary**
