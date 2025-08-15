@@ -138,8 +138,9 @@ Key pain points:
 ### **H. Loss Analysis**
 
 **Total Losses:** **–SAR 93,671.46**
+**Loss Trend Analysis: ** December shows the highest losses, likely driven by year-end factors.
 
-**By Product (Top Loss Drivers):**
+ **By Product (Top Loss Drivers):**
 
 * PROD\_008 — **–SAR 12,019.02**
 * PROD\_027 — **–SAR 5,740.05**
