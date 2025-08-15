@@ -64,7 +64,7 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 
 ---
 
-### **D. Price Elasticity Insights **
+### **D. Price Elasticity Insights**
 
 * **All SKUs highly elastic** (>1) — most in **20–33** range.
 
@@ -84,7 +84,7 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 
 ---
 
-### **E. Price Gap vs. Market Share Correlation **
+### **E. Price Gap vs. Market Share Correlation**
 
 * **Positive Outliers:** Neutrogena *PROD\_038\_200g* (+0.089) — gains share even with higher price gap.
 * **Negative Sensitivities:** Band-Aid *PROD\_047\_100pcs* (-0.056) — loses share with price gap increases.
@@ -92,7 +92,7 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 
 ---
 
-### **F. Market Share ROI & Top Performers **
+### **F. Market Share ROI & Top Performers**
 
 * Highest ROI: *Listerine PROD\_008\_30ml* (0.000074).
 * Noon / *PROD\_025\_30ml* in Jeddah — ROI 90.55 (**standout success**).
