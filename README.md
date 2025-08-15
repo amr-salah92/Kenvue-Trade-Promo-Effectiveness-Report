@@ -168,6 +168,8 @@ Key pain points:
 4. **Target competitive threat zones** — deploy defensive pricing/promo activity in regions where share loss exceeds 20pp.
 5. **E-commerce governance** — Noon and Amazon require tighter control to curb leakage and competitive share erosion.
 
+![Screenshot_15-8-2025_232141_](https://github.com/user-attachments/assets/1da187a8-6910-4efb-ac28-48870d95c4f1)
+
 ---
 
 ## **4. Next Steps**
