@@ -76,11 +76,10 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
   * Listerine *PROD\_010\_200g* — 31.25
   * Band-Aid *PROD\_025\_30ml* — 30.06
 
-* **Strategic Implication:**
+👉 These SKUs are **hyper-responsive** → strategic promo targeting here can unlock growth but risks steep post-promo crashes.
 
-  * Pricing must be **precisely timed** to demand peaks.
-  * **Dynamic pricing** & competitor monitoring critical.
-  * Over-discounting risks steep post-promo volume declines.
+* **Moderate Elasticity (23–28):** Aveeno, Clean & Clear mid-packs, Listerine 50pcs — better suited for **controlled 5–10% discounts**.
+* **Lower Elasticity (<22):** Listerine 30ml, Johnson’s 30ml — best used as **margin protectors** (premium pricing, bundling).
 
 ---
 
@@ -128,6 +127,37 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 
 ---
 
+### **I. Dynamic Threshold Promotion Insights**
+
+⚙️ **Thresholds Applied:**
+
+* Elasticity ≤ 27.35 (top 70% responsive SKUs).
+* ROI ≥ 0.0023 (top 65% performers).
+* Share Loss ≥ 3.56% (top 80% gaps).
+
+🎯 **Top 3 Opportunities:**
+
+1. **Mecca – Panda – PROD\_006\_50pcs** → Elasticity 26.1, ROI 0.045, Share Loss 21.65%. **Highest-priority promo.**
+2. **Mecca – Amazon – PROD\_043\_100pcs** → Elasticity 24.1, ROI 0.035, Share Loss 16.65%. Strong digital play.
+3. **Dammam – Hyper Panda – PROD\_042\_200g** → Elasticity 25.6, ROI 0.032, Share Loss 18.65%. High urgency.
+
+🌍 **Regional Highlights:**
+
+* **Mecca = crown jewel** (3 highest-priority promos).
+* **Dammam = strong Panda-led plays.**
+* **Khobar = balanced Lulu/Noon mix.**
+* **Riyadh = weaker ROI, needs diagnostic work.**
+* **Jeddah = defensive only.**
+
+🏪 **Retailer Effectiveness:**
+
+* **Panda = most reliable partner** (appears 6 times).
+* **Amazon = Mecca-specific high-impact.**
+* **Noon = mixed; some weak ROI cases.**
+* **Carrefour & Lulu = defensive plays.**
+* **Al-Dawaa = deprioritize (negative priority score).**
+
+---
 ## **3. Strategic Implications**
 
 * **Exploit elasticity intelligently** — focus spend on SKUs where price moves create sustainable share gains.
@@ -142,30 +172,25 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 
 ## **4. Recommendations**
 
-1. **Prioritize High-Elasticity SKUs** for Q4 promo testing.
-2. **Replace blanket discounts** with targeted, data-driven offers.
-3. **Freeze low-return trade investments** until proven in A/B tests.
-4. **Defend high-loss regions** — Mecca, Dammam, Riyadh — with tactical offers.
-5. **Implement real-time promo dashboards** to track ROI, leakage, and share.
+1. **Prioritize high-elastic SKUs** (Clean & Clear 041, Neutrogena 005, Johnson’s 013).
+2. **Replace blanket discounts** with **data-driven, threshold-based targeting**.
+3. **Freeze low-return trade investments** until validated via A/B tests.
+4. **Allocate >40% promo budget to Mecca** (Panda & Amazon).
+5. **Expand Panda partnerships regionally**, bundle promos, and negotiate co-funding.
+6. **Investigate weak ROI zones** (Riyadh, Noon in Dammam).
+7. **Cap discounts on 30+ elasticity SKUs at 10–15%** to protect margin.
 
 ---
 
 ## **5. SMART Q\&A**
+**Q1: Which SKUs to prioritize?**
+*A:* Clean & Clear 041, Neutrogena 005, Band-Aid 025, plus threshold-shortlisted Panda/Amazon plays.
 
-* **Q1:** Which SKUs to prioritize for promotions?
+**Q2: How to reduce leakage by 20% in 6 months?**
+*A:* Focus on top 10 leakage SKUs, Amazon/Noon governance, cap discounts, enforce targeting rules.
 
-  * *A:* Clean & Clear *PROD\_041\_100pcs*, Neutrogena *PROD\_005\_100pcs*, Band-Aid *PROD\_025\_30ml*.
+**Q3: How to defend share losses in Mecca & Dammam?**
+*A:* Deploy threshold promos in Panda/Amazon, aim to limit share loss to <5pp next 2 cycles.
 
-* **Q2:** How to reduce leakage by 20% in 6 months?
-
-  * *A:* Focus on top 10 SKUs + Amazon & Noon; cap discounts; enforce governance.
-
-* **Q3:** How to respond to share losses in Mecca & Dammam?
-
-  * *A:* Deploy defensive promos; limit share loss to <5pp in next 2 cycles.
-
-* **Q4:** Can promo ROI reach break-even in 12 months?
-
-  * *A:* Yes — cut BOGO/Price Discounts, focus on high-elasticity SKUs, refine targeting.
-
-
+**Q4: Can ROI reach break-even in 12 months?**
+*A:* Yes — cut destructive mechanics, pivot to elasticity-driven promos, scale high-ROI Panda/Amazon wins.
