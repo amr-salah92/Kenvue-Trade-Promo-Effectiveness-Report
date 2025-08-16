@@ -14,6 +14,8 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 * **Price strategy misalignment** — heavy discounts applied to low-responsiveness SKUs.
 * **Competitive share loss** concentrated in specific SKU–region–retailer combinations.
 * **Elasticities in the 20–33 range** for most SKUs, magnifying both potential gains and risks from pricing decisions.
+* **Average GTN Percentage:** in all sales data = ~ 79% and for loss-generating SKUs/channels = -111.4 %
+
 
 ---
 
@@ -78,6 +80,13 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 | New Product Listing   | -0.8839  |
 | Marketing Support        | -0.9065    |
 | Shelf Space Optimization       | -0.9237  |
+
+* **Average GTN (Gross-to-Net) percentage:**
+
+  * Across all sales data: \~79%
+  * For loss-generating SKUs/channels: -111.4%
+
+* **Implication:** Negative GTN for loss cases highlights **value-destructive promotions** and excessive discount leakage. Stand-alone GTN (\~79%) indicates overall margin health, but key SKUs and e-commerce channels require **tight governance and corrective action**.
 
 ---
 
