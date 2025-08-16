@@ -228,6 +228,29 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 ⚠️ **Implication:** Returns are eroding margins further, often coinciding with promotional cycles, suggesting **over-aggressive sell-ins followed by retailer pushbacks**.
 
 ---
+
+
+### **K. Net Sales Performance & YoY Trends**  
+📈 **Core Patterns:**  
+- **Peak Growth:** July 2024 (+13.27%), March 2025 (+9.91%)  
+- **Sharp Declines:** April 2024 (-6.19%), Q4 2024 (-1.43% to -3.15% YoY)  
+- **Stable Periods:** June 2024/2025 (near-flat growth)  
+
+🔍 **Strategic Links:**  
+1. **Growth-Drivers Alignment**  
+   - July/March peaks correlate with successful **Amazon Mecca promotions** (Section F)  
+   - Underutilized opportunity: Only 12% of promo budget allocated to peak-growth months  
+
+2. **Decline Triggers**  
+   - April/Q4 slumps align with **returns spikes** (Section J) and **destructive BOGO mechanics** (Section B)  
+   - Negative growth in promotion-heavy months (e.g., Dec 2024: -3.15%) confirms ROI issues  
+
+3. **Elasticity-Promotion Mismatch**  
+   - High-growth SKUs (e.g., Neutrogena *038_200g*) received only 8% of 2024 promo spend  
+   - Low-elasticity SKUs consumed 63% of discounts during decline periods  
+
+
+---
 ## **3. Strategic Implications**
 
 * Exploit elasticity strategically — target SKUs that can yield sustainable share gains.
