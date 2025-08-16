@@ -59,8 +59,25 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 ### **C. Trade Investment ROI**
 
 * Stand-alone: \~0% ROI — **no measurable uplift**.
+
+| InvestmentType     | ROI |
+| ------------- | -------- |
+| Shelf Space Optimization       | 0.0000  |
+| Co-op Advertising        | 0.0000     |
+| New Product Listing   | 0.0000     |
+| Marketing Support        | 0.0000   |
+| Display Fee          | -0.0000     |
+  
 * Combined with promotions: all negative (-0.89 to -1.24).
 * Pairing investments with promos currently **destroys value**.
+
+| InvestmentType     | ROI |
+| ------------- | -------- |
+| Display Fee          | -0.6699     |
+| Co-op Advertising        | -0.8363    |
+| New Product Listing   | -0.8839  |
+| Marketing Support        | -0.9065    |
+| Shelf Space Optimization       | -0.9237  |
 
 ---
 
@@ -95,10 +112,24 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 
 * Highest ROI: *Listerine PROD\_008\_30ml* (0.000074).
 * Noon / *PROD\_025\_30ml* in Jeddah — ROI 90.55 (**standout success**).
+  
 * High-ROI Amazon wins:
-
-  * *PROD\_042\_200g*, *PROD\_010\_200g*, *PROD\_043\_100pcs* in Mecca.
+ * *PROD\_042\_200g*, *PROD\_010\_200g*, *PROD\_043\_100pcs* in Mecca.
 * **Lowest ROI:** Panda / *PROD\_024\_100g* in Mecca (-52.56).
+
+| Region | Retailer | SKU            |   ROI       |
+| ------- | ------- | --------------- | ---------- |
+| Jeddah | Noon     | PROD_025_30ml   |   90.5482 |
+| Mecca  | Amazon   | PROD_042_200g   |   75.1561 | 
+|        |         | PROD_010_200g    |  54.5631 |
+|        |         | PROD_043_100pcs  |  54.0475 |
+| Riyadh | Amazon   | PROD_004_30ml   |   40.7288 | 
+|        |           |                |   ...    |
+| Mecca  | Nahdi    | PROD_026_50pcs  |  -28.3258 |
+| Dammam | Panda    | PROD_001_500ml  |  -28.6103 |
+| Mecca  | Panda    | PROD_041_100pcs |  -32.1397 |
+| Jeddah | Nahdi    | PROD_045_200g    | -34.9124 |
+| Mecca  | Panda    | PROD_024_100g    | -52.5632 |
 
 ---
 
