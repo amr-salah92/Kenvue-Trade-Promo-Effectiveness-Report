@@ -172,6 +172,27 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 2. **Mecca – Amazon – PROD\_043\_100pcs** → Elasticity 24.1, ROI 0.035, Share Loss 16.65%. Strong digital play.
 3. **Dammam – Hyper Panda – PROD\_042\_200g** → Elasticity 25.6, ROI 0.032, Share Loss 18.65%. High urgency.
 
+### 🎯 Top Targeted Promotions (SKU–Retailer–Region)
+
+| Region  | Retailer     | SKU              | Elasticity | ROI    | Share Loss | Priority Score |
+|---------|--------------|------------------|------------|--------|-------------|----------------|
+| Mecca   | Panda        | PROD_006_50pcs   | 26.1109    | 0.0450 | 21.6484     | 0.3156         |
+| Mecca   | Amazon       | PROD_043_100pcs  | 24.1404    | 0.0354 | 16.6484     | 0.2524         |
+| Dammam  | Hyper Panda  | PROD_042_200g    | 25.6181    | 0.0321 | 18.6484     | 0.2342         |
+| Mecca   | Amazon       | PROD_042_200g    | 25.6181    | 0.0613 | 9.6484      | 0.2328         |
+| Dammam  | Hyper Panda  | PROD_009_30ml    | 18.8831    | 0.0205 | 9.6484      | 0.2107         |
+| Khobar  | Lulu         | PROD_003_100g    | 21.4687    | 0.0345 | 9.0330      | 0.2042         |
+| Dammam  | Noon         | PROD_001_500ml   | 25.6645    | 0.0037 | 22.6484     | 0.1712         |
+| Khobar  | Noon         | PROD_009_30ml    | 18.8831    | 0.0116 | 6.3626      | 0.1311         |
+| Khobar  | Panda        | PROD_009_30ml    | 18.8831    | 0.0028 | 7.0928      | 0.1054         |
+| Riyadh  | Panda        | PROD_018_200g    | 24.4381    | 0.0247 | 8.9817      | 0.1012         |
+| Riyadh  | Panda        | PROD_023_150ml   | 24.8984    | 0.0028 | 11.8302     | 0.0408         |
+| Jeddah  | Carrefour    | PROD_039_50pcs   | 23.1176    | 0.0061 | 7.6484      | 0.0361         |
+| Jeddah  | Carrefour    | PROD_034_100pcs  | 23.1866    | 0.0119 | 3.6484      | 0.0051         |
+| Jeddah  | Lulu         | PROD_022_150ml   | 22.6743    | 0.0042 | 4.5055      | -0.0038        |
+| Riyadh  | Al-Dawaa     | PROD_015_100pcs  | 24.0813    | 0.0026 | 5.4176      | -0.0280        |
+
+
 🌍 **Regional Highlights:**
 
 * **Mecca = crown jewel** (3 highest-priority promos).
@@ -187,6 +208,7 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 * **Noon = mixed; some weak ROI cases.**
 * **Carrefour & Lulu = defensive plays.**
 * **Al-Dawaa = deprioritize (negative priority score).**
+
 
 ---
 ## **3. Strategic Implications**
