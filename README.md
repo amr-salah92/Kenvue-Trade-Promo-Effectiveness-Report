@@ -208,16 +208,33 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 * **Noon = mixed; some weak ROI cases.**
 * **Carrefour & Lulu = defensive plays.**
 * **Al-Dawaa = deprioritize (negative priority score).**
+---
 
+### **J. Returns Analysis Over Time**
+
+📊 **Monthly Trends:**
+
+* **2023:** Returns spiked in **January, April, August, November**.
+* **2024:** Spikes shifted to **January, May, July, October**.
+* **2025:** Concentrated in **January, March** so far.
+
+🔎 **Insights:**
+
+1. **January peaks every year** → driven by post-holiday returns and year-end overstocks.
+2. **Quarter-end spikes (April, July, October)** → linked to push strategies and bulk sell-ins, resulting in downstream returns.
+3. **August 2023 anomaly** → summer promotions likely mismatched to demand.
+4. **2025 shows reduced volatility** → possible early effects of better governance.
+
+⚠️ **Implication:** Returns are eroding margins further, often coinciding with promotional cycles, suggesting **over-aggressive sell-ins followed by retailer pushbacks**.
 
 ---
 ## **3. Strategic Implications**
 
-* **Exploit elasticity intelligently** — focus spend on SKUs where price moves create sustainable share gains.
-* **Cut value-destructive mechanics** — BOGO & deep price cuts.
-* **Replicate high-ROI region–SKU–retailer strategies**.
-* **Target competitive threat zones** with defensive promos.
-* **E-commerce governance** — Amazon & Noon require stricter controls.
+* Exploit elasticity strategically — target SKUs that can yield sustainable share gains.
+* Eliminate **value-destructive mechanics** (BOGO, deep discounts).
+* Scale **high-ROI retailer–region–SKU plays** (e.g., Panda Mecca, Amazon Mecca).
+* Strengthen **e-commerce governance** (Amazon, Noon).
+* Mitigate **returns-driven margin erosion** by aligning promos with demand cycles.
 
 ---
 
@@ -225,25 +242,27 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 
 ## **4. Recommendations**
 
-1. **Prioritize high-elastic SKUs** (Clean & Clear 041, Neutrogena 005, Johnson’s 013).
-2. **Replace blanket discounts** with **data-driven, threshold-based targeting**.
-3. **Freeze low-return trade investments** until validated via A/B tests.
-4. **Allocate >40% promo budget to Mecca** (Panda & Amazon).
-5. **Expand Panda partnerships regionally**, bundle promos, and negotiate co-funding.
-6. **Investigate weak ROI zones** (Riyadh, Noon in Dammam).
-7. **Cap discounts on 30+ elasticity SKUs at 10–15%** to protect margin.
-
+1. Focus promotions on **high-elastic SKUs** (Clean & Clear *041*, Neutrogena *005*, Johnson’s *013*).
+2. Replace blanket discounts with **data-driven, threshold-based targeting**.
+3. Freeze low-return trade investments until validated via **A/B testing**.
+4. Allocate **>40% of promo budget to Mecca** (Panda + Amazon).
+5. Expand **Panda partnerships** regionally with bundled offers and co-funding.
+6. Diagnose weak ROI regions (**Riyadh, Noon/Dammam**) and redesign mechanics.
+7. Cap discounts on **30+ elasticity SKUs at 10–15%** to protect margins.
+8. Address **returns seasonality** by tightening sell-in governance and syncing promotions to real demand cycles.
+   
 ---
 
 ## **5. SMART Q\&A**
-**Q1: Which SKUs to prioritize?**
-*A:* Clean & Clear 041, Neutrogena 005, Band-Aid 025, plus threshold-shortlisted Panda/Amazon plays.
 
-**Q2: How to reduce leakage by 20% in 6 months?**
-*A:* Focus on top 10 leakage SKUs, Amazon/Noon governance, cap discounts, enforce targeting rules.
+**Q1: Which SKUs should be prioritized?**
+*A:* Clean & Clear *041*, Neutrogena *005*, Band-Aid *025*, and high-priority Panda/Amazon SKUs.
 
-**Q3: How to defend share losses in Mecca & Dammam?**
-*A:* Deploy threshold promos in Panda/Amazon, aim to limit share loss to <5pp next 2 cycles.
+**Q2: How can leakage be reduced by 20% in 6 months?**
+*A:* Focus on top 10 leakage SKUs, enforce Amazon/Noon controls, cap discount levels, and implement data-driven targeting.
 
-**Q4: Can ROI reach break-even in 12 months?**
-*A:* Yes — cut destructive mechanics, pivot to elasticity-driven promos, scale high-ROI Panda/Amazon wins.
+**Q3: How do we defend share losses in Mecca & Dammam?**
+*A:* Launch threshold-based promos in Panda/Amazon; aim to limit share loss to <5pp in the next 2 cycles.
+
+**Q4: Can ROI reach break-even within 12 months?**
+*A:* Yes — by eliminating destructive promos, pivoting to elasticity-driven mechanics, and scaling high-ROI retailer–region plays.
