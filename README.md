@@ -236,9 +236,10 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 * Strengthen **e-commerce governance** (Amazon, Noon).
 * Mitigate **returns-driven margin erosion** by aligning promos with demand cycles.
 
----
+![Screenshot_16-8-2025_131239_chat deepseek com](https://github.com/user-attachments/assets/17a54d1e-bede-4de0-95ed-cfc81d25f627)
 
-![Screenshot_15-8-2025_232141_](https://github.com/user-attachments/assets/b5fab527-c264-4766-9ad6-ae8f164d5f51)
+
+---
 
 ## **4. Recommendations**
 
