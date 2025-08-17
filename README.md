@@ -6,7 +6,7 @@ Kenvue’s current trade and promotional strategies are eroding profitability, w
 
 Even more critically, price elasticity analysis reveals extreme sensitivity across nearly all SKUs, meaning small pricing changes cause disproportionately large volume shifts — both opportunities and risks.
 
-🔎 New finding: **Trade Spend Efficiency (TSE)** analysis shows that **Digital and Price Discount mechanics destroy value**, while Display and BOGO deliver only marginal or breakeven returns. This highlights poor promo–investment alignment and the urgent need for a data-driven framework.
+**Trade Spend Efficiency (TSE)** analysis shows that **Digital and Price Discount mechanics destroy value**, while Display and BOGO deliver only marginal or breakeven returns. This highlights poor promo–investment alignment and the urgent need for a data-driven framework.
 
 **Key Pain Points:**
 
