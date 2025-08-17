@@ -9,7 +9,7 @@ Even more critically, price elasticity analysis reveals extreme sensitivity acro
 **Trade Spend Efficiency (TSE)** analysis shows that **Digital and Price Discount mechanics destroy value**, while Display and BOGO deliver only marginal or breakeven returns. This highlights poor promo–investment alignment and the urgent need for a data-driven framework.
 
 **Key Pain Points:**
-
+* SAR 831M total net Sales over the period.
 * SAR 93,671.46 total net losses over the period.
 * 42% of discount leakage originates from e-commerce channels (Amazon, Noon).
 * All promo types deliver negative ROI; BOGO and deep price discounts are most margin-destructive.
