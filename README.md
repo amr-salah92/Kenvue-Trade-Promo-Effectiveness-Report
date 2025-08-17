@@ -78,13 +78,6 @@ Digital         -0.2393
 | Marketing Support        | -0.9065    |
 | Shelf Space Optimization       | -0.9237  |
 
-* **Average GTN (Gross-to-Net) percentage:**
-
-  * Across all sales data: \~79%
-  * For loss-generating SKUs/channels: -111.4%
-
-* **Implication:** Negative GTN for loss cases highlights **value-destructive promotions** and excessive discount leakage. Stand-alone GTN (\~79%) indicates overall margin health, but key SKUs and e-commerce channels require **tight governance and corrective action**.
-
 ---
 
 ### **D. Price Elasticity Insights**
@@ -171,7 +164,7 @@ Digital         -0.2393
 
 ---
 
-### **I. Loss Analysis**
+### **I. Loss & GTN Analysis**
 
 * **Total Losses:** -SAR 93,671.46
 * **Top Loss Products:**
@@ -184,9 +177,16 @@ Digital         -0.2393
   * Al-Dawaa — -SAR 13,927.76
   * Carrefour — -SAR 11,418.85
 
+* **Average GTN (Gross-to-Net) percentage:**
+
+  * Across all sales data: \~79%
+  * For loss-generating SKUs/channels: -111.4%
+
+* **Implication:** Negative GTN for loss cases highlights **value-destructive promotions** and excessive discount leakage. Stand-alone GTN (\~79%) indicates overall margin health, but key SKUs and e-commerce channels require **tight governance and corrective action**.
+
 ---
 
-### **J. Dynamic Threshold Promotion Insights**
+### **J. Dynamic Threshold Promotion Insights "Scenario Analysis"**
 
 ⚙️ **Thresholds Applied:**
 
