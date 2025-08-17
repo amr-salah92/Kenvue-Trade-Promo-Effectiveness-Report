@@ -23,26 +23,21 @@ Even more critically, price elasticity analysis reveals extreme sensitivity acro
 
 ## **2. Key Findings**
 
-### **A. Discount Leakage**
+### **A. Trade Spend Efficiency (TSE) by PromoType**
 
-**By SKU (Overall)**
+```
+Display          0.0128  
+BOGO             0.0044  
+PriceDiscount   -0.0042  
+Digital         -0.2393
+```
 
-* Highest leakage: *PROD\_014\_500ml* — SAR 257,113 (3.82% of total leakage)
-* *PROD\_035\_50pcs* — SAR 221,960 (3.30%)
-* Top 10 SKUs = \~30% of leakage.
+🔎 **Insights:**
 
-**By Retailer (Overall)**
-
-* Amazon — SAR 1.47M (21.93%)
-* Noon — SAR 1.35M (20.03%)
-* E-commerce = 42% of total leakage.
-
-**By Retailer–SKU Pair**
-
-* Noon / *PROD\_035\_50pcs* — SAR 80,463 (1.20%)
-* Amazon / *PROD\_040\_30ml* — SAR 78,902 (1.17%)
-* Tail leakage minimal — e.g., Lulu / *PROD\_008\_30ml* at SAR 269 (0.00%).
-
+* **Display (TSE = +0.0128):** Slightly positive, but weak → only \~1.3% uplift per SAR spent.
+* **BOGO (TSE = +0.0044):** Barely efficient; high volume but little payback.
+* **Price Discount (TSE = -0.0042):** Value-destructive; discounts reduce profitability.
+* **Digital (TSE = -0.2393):** Strongly negative; poor targeting and inflated digital costs drive losses.
 ---
 
 ### **B. Promotional ROI by Type**
@@ -144,21 +139,25 @@ Even more critically, price elasticity analysis reveals extreme sensitivity acro
 
 ---
 
-### **G. Trade Spend Efficiency (TSE) by PromoType**
+### **G. Discount Leakage**
 
-```
-Display          0.0128  
-BOGO             0.0044  
-PriceDiscount   -0.0042  
-Digital         -0.2393
-```
+**By SKU (Overall)**
 
-🔎 **Insights:**
+* Highest leakage: *PROD\_014\_500ml* — SAR 257,113 (3.82% of total leakage)
+* *PROD\_035\_50pcs* — SAR 221,960 (3.30%)
+* Top 10 SKUs = \~30% of leakage.
 
-* **Display (TSE = +0.0128):** Slightly positive, but weak → only \~1.3% uplift per SAR spent.
-* **BOGO (TSE = +0.0044):** Barely efficient; high volume but little payback.
-* **Price Discount (TSE = -0.0042):** Value-destructive; discounts reduce profitability.
-* **Digital (TSE = -0.2393):** Strongly negative; poor targeting and inflated digital costs drive losses.
+**By Retailer (Overall)**
+
+* Amazon — SAR 1.47M (21.93%)
+* Noon — SAR 1.35M (20.03%)
+* E-commerce = 42% of total leakage.
+
+**By Retailer–SKU Pair**
+
+* Noon / *PROD\_035\_50pcs* — SAR 80,463 (1.20%)
+* Amazon / *PROD\_040\_30ml* — SAR 78,902 (1.17%)
+* Tail leakage minimal — e.g., Lulu / *PROD\_008\_30ml* at SAR 269 (0.00%).
 
 ---
 
