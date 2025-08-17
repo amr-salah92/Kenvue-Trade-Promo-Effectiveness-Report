@@ -2,21 +2,23 @@
 
 ## **1. Executive Summary**
 
-Kenvue’s current trade and promotional strategies are eroding profitability, with **negative ROI across all promo types**, **high discount leakage** concentrated in a small number of SKUs and retailers, and **market share losses** during sales downturns.
+Kenvue’s current trade and promotional strategies are eroding profitability, with negative ROI across all promo types, high discount leakage concentrated in a small number of SKUs and retailers, and market share losses during sales downturns.
 
-Even more critically, **price elasticity analysis reveals extreme sensitivity across nearly all SKUs**, meaning small pricing changes cause disproportionately large volume shifts — both opportunities and risks.
+Even more critically, price elasticity analysis reveals extreme sensitivity across nearly all SKUs, meaning small pricing changes cause disproportionately large volume shifts — both opportunities and risks.
+
+🔎 New finding: **Trade Spend Efficiency (TSE)** analysis shows that **Digital and Price Discount mechanics destroy value**, while Display and BOGO deliver only marginal or breakeven returns. This highlights poor promo–investment alignment and the urgent need for a data-driven framework.
 
 **Key Pain Points:**
 
-* **SAR 93,671.46 total net losses** over the period.
-* **42% of discount leakage** originates from e-commerce channels (*Amazon*, *Noon*).
-* **All promo types** deliver negative ROI; BOGO and deep price discounts are most margin-destructive.
-* **Price strategy misalignment** — heavy discounts applied to low-responsiveness SKUs.
-* **Competitive share loss** concentrated in specific SKU–region–retailer combinations.
-* **Elasticities in the 20–33 range** for most SKUs, magnifying both potential gains and risks from pricing decisions.
-* **Average GTN Percentage:** in all sales data = ~ 79% and for loss-generating SKUs/channels = -111.4 %
+* SAR 93,671.46 total net losses over the period.
+* 42% of discount leakage originates from e-commerce channels (Amazon, Noon).
+* All promo types deliver negative ROI; BOGO and deep price discounts are most margin-destructive.
+* **TSE confirms Digital (-0.239) and Price Discounts (-0.004) destroy value.**
+* Competitive share loss concentrated in specific SKU–region–retailer combinations.
+* Elasticities in the 20–33 range for most SKUs, magnifying both potential gains and risks from pricing decisions.
+* Average GTN Percentage: in all sales data = \~79% and for loss-generating SKUs/channels = -111.4%.
 
-
+  
 ---
 
 ## **2. Key Findings**
@@ -142,7 +144,25 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 
 ---
 
-### **G. Competitive Share Loss Analysis**
+### **G. Trade Spend Efficiency (TSE) by PromoType**
+
+```
+Display          0.0128  
+BOGO             0.0044  
+PriceDiscount   -0.0042  
+Digital         -0.2393
+```
+
+🔎 **Insights:**
+
+* **Display (TSE = +0.0128):** Slightly positive, but weak → only \~1.3% uplift per SAR spent.
+* **BOGO (TSE = +0.0044):** Barely efficient; high volume but little payback.
+* **Price Discount (TSE = -0.0042):** Value-destructive; discounts reduce profitability.
+* **Digital (TSE = -0.2393):** Strongly negative; poor targeting and inflated digital costs drive losses.
+
+---
+
+### **H. Competitive Share Loss Analysis**
 
 * Largest share losses:
 
@@ -152,7 +172,7 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 
 ---
 
-### **H. Loss Analysis**
+### **I. Loss Analysis**
 
 * **Total Losses:** -SAR 93,671.46
 * **Top Loss Products:**
@@ -167,7 +187,7 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 
 ---
 
-### **I. Dynamic Threshold Promotion Insights**
+### **J. Dynamic Threshold Promotion Insights**
 
 ⚙️ **Thresholds Applied:**
 
@@ -219,7 +239,7 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 * **Al-Dawaa = deprioritize (negative priority score).**
 ---
 
-### **J. Returns Analysis Over Time**
+### **K. Returns Analysis Over Time**
 
 📊 **Monthly Trends:**
 
@@ -239,7 +259,7 @@ Even more critically, **price elasticity analysis reveals extreme sensitivity ac
 ---
 
 
-### **K. Net Sales Performance & YoY Trends**  
+### **L. Net Sales Performance & YoY Trends**  
 📈 **Core Patterns:**  
 - **Peak Growth:** July 2024 (+13.27%), March 2025 (+9.91%)  
 - **Sharp Declines:** April 2024 (-6.19%), Q4 2024 (-1.43% to -3.15% YoY)  
