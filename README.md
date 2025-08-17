@@ -186,7 +186,7 @@ Digital         -0.2393
 
 ---
 
-### **J. Dynamic Threshold Promotion Insights "Scenario Analysis"**
+### **J. Dynamic Threshold Promotion Insights**
 
 ⚙️ **Thresholds Applied:**
 
