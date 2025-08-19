@@ -79,8 +79,61 @@ Digital         -0.2393
 | Shelf Space Optimization       | -0.9237  |
 
 ---
+### D. Net Present Value (NPV) by Promo Type
 
-### **D. Price Elasticity Insights**
+**Results:**
+
+* Price Discount: **SAR 77.5M**
+* Display: **SAR 46.6M**
+* BOGO: **SAR 46.0M**
+* Digital: **SAR 45.7M**
+
+**🔎 Insights:**
+
+* **Price Discounts deliver the highest absolute NPV**, but this comes at the expense of efficiency (as confirmed by low IRR and negative ROI). They drive volume and short-term cash inflows but destroy profitability if left unchecked.
+* **Display and BOGO deliver strong mid-tier NPVs**, making them safer and more scalable than Price Discounts.
+* **Digital contributes the lowest NPV**, reinforcing its weak ROI and TSE performance.
+
+📌 Strategic Link: **NPV shows "cash power," but efficiency metrics (IRR/TSE) are critical to judge sustainability.**
+
+---
+
+### E. Internal Rate of Return (IRR) by Promo Type
+
+**Results:**
+
+* Display: **43.4%**
+* BOGO: **40.8%**
+* Digital: **37.9%**
+* Price Discount: **35.7%**
+
+**🔎 Insights:**
+
+* **Display promotions generate the most efficient return per SAR invested**, validating them as the most scalable lever.
+* **BOGO delivers strong IRR** but risks long-term sustainability due to post-promo crashes and margin dilution.
+* **Digital’s IRR is moderate**, highlighting underperformance but suggesting room for recovery through better targeting and spend discipline.
+* **Price Discounts rank lowest in IRR**, confirming they erode value despite high NPV.
+
+📌 Strategic Link: **IRR highlights "efficiency," making Display the top candidate for future promo scaling.**
+
+---
+
+### F. Break-even Analysis (Aggregate)
+
+* **Break-even Units:** 154,236 units
+* **Break-even Sales Value:** SAR 7.30M
+
+**🔎 Insights:**
+
+* Kenvue requires \~154K incremental units sold just to recover trade investments.
+* This high threshold underscores why **current mechanics fail to cover fixed trade costs**.
+* Break-even exposure is particularly dangerous for Digital and Price Discounts, which already destroy value.
+
+📌 Strategic Link: **Break-even confirms the urgency of shifting to mechanics (Display, BOGO) that at least move Kenvue closer to profitability.**
+
+
+---
+### **G. Price Elasticity Insights**
 
 * **All SKUs highly elastic** (>1) — most in **20–33** range.
 
@@ -99,7 +152,7 @@ Digital         -0.2393
 
 ---
 
-### **E. Price Gap vs. Market Share Correlation**
+### **H. Price Gap vs. Market Share Correlation**
 
 * **Positive Outliers:** Neutrogena *PROD\_038\_200g* (+0.089) — gains share even with higher price gap.
 * **Negative Sensitivities:** Band-Aid *PROD\_047\_100pcs* (-0.056) — loses share with price gap increases.
@@ -107,7 +160,7 @@ Digital         -0.2393
 
 ---
 
-### **F. Market Share ROI & Top Performers**
+### **I. Market Share ROI & Top Performers**
 
 * Highest ROI: *Listerine PROD\_008\_30ml* (0.000074).
 * Noon / *PROD\_025\_30ml* in Jeddah — ROI 90.55 (**standout success**).
@@ -132,7 +185,7 @@ Digital         -0.2393
 
 ---
 
-### **G. Discount Leakage**
+### **J. Discount Leakage**
 
 **By SKU (Overall)**
 
@@ -154,7 +207,7 @@ Digital         -0.2393
 
 ---
 
-### **H. Competitive Share Loss Analysis**
+### **K. Competitive Share Loss Analysis**
 
 * Largest share losses:
 
@@ -164,7 +217,7 @@ Digital         -0.2393
 
 ---
 
-### **I. Loss & GTN Analysis**
+### **L. Loss & GTN Analysis**
 
 * **Total Losses:** -SAR 93,671.46
 * **Top Loss Products:**
@@ -186,7 +239,7 @@ Digital         -0.2393
 
 ---
 
-### **J. Dynamic Threshold Promotion Insights**
+### **M. Dynamic Threshold Promotion Insights**
 
 ⚙️ **Thresholds Applied:**
 
@@ -258,7 +311,7 @@ Digital         -0.2393
 ---
 
 
-### **L. Net Sales Performance & YoY Trends**  
+### **N. Net Sales Performance & YoY Trends**  
 📈 **Core Patterns:**  
 - **Peak Growth:** July 2024 (+13.27%), March 2025 (+9.91%)  
 - **Sharp Declines:** April 2024 (-6.19%), Q4 2024 (-1.43% to -3.15% YoY)  
@@ -315,6 +368,9 @@ Digital         -0.2393
 ---
 ## **3. Strategic Implications**
 
+* **NPV vs. IRR Trade-off:** While Price Discounts look attractive in absolute SAR value (NPV), they are the least efficient promo lever (low IRR, negative ROI).
+* **Efficiency Matters:** Display should be prioritized as the **most scalable and profitable** mechanic when considering both NPV and IRR.
+* **Break-even Reality Check:** Kenvue’s current promotional strategy requires high incremental volumes just to recover costs, explaining persistent negative ROI.
 * Exploit elasticity strategically — target SKUs that can yield sustainable share gains.
 * Eliminate **value-destructive mechanics** (BOGO, deep discounts).
 * Scale **high-ROI retailer–region–SKU plays** (e.g., Panda Mecca, Amazon Mecca).
@@ -328,27 +384,32 @@ Digital         -0.2393
 
 ## **4. Recommendations**
 
-1. **Promo Optimization**
 
-   * Focus on high-elastic SKUs (Clean & Clear 041, Neutrogena 005, Johnson’s 013).
-   * Replace blanket discounts with **data-driven, TSE-guided targeting**.
-   * Cap discounts on 30+ elasticity SKUs at 10–15% to protect margins.
+### **1. Promo Optimization**
 
-2. **Investment Discipline**
+* **Prioritize Display promotions** → highest IRR and sustainable efficiency.
+* Use **Price Discounts sparingly** → only on high-elastic SKUs; cap discounts at 10–15%.
+* Redesign **Digital strategy** (better segmentation + CPC control) before scaling.
+* Apply **NPV + IRR dual filter** to evaluate all promo plans.
 
-   * Freeze low-return trade investments until validated via A/B testing.
-   * Establish **TSE ≥ 0.05** as a go/no-go gate for promotions.
+### **2. Investment Discipline**
 
-3. **Channel & Retailer Strategy**
+* **Freeze low-return trade investments** until validated via test-and-learn.
+* Introduce **break-even gating**: require forecasted unit sales ≥154K for promo approval.
+* Set TSE ≥0.05 and IRR ≥40% as minimum thresholds.
 
-   * Allocate >40% of promo budget to **Mecca (Panda + Amazon)**.
-   * Expand Panda partnerships regionally with bundled offers and co-funding.
-   * Diagnose weak ROI regions (Riyadh, Noon/Dammam) and redesign mechanics.
-     
-4. **Returns Governance**
+### **3. Channel & Retailer Strategy**
 
-   * Address returns seasonality by tightening sell-in governance and syncing promotions to real demand cycles.
-   
+* **Expand Panda partnerships** (regional bundling + co-funding).
+* Allocate **>40% of promo budget to Mecca (Panda + Amazon)** → proven ROI hot spots.
+* Reinforce leakage governance in Amazon & Noon with SKU-level discount caps.
+
+### **4. Returns Governance**
+
+* Sync promotions with **demand cycles** to cut return spikes.
+* Limit quarter-end push promotions that inflate returns.
+
+  
 ---
 
 ## **5. SMART Q\&A**
