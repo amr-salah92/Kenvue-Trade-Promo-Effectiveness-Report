@@ -6,7 +6,9 @@ Kenvue’s current trade and promotional strategies are eroding profitability, w
 
 Even more critically, price elasticity analysis reveals extreme sensitivity across nearly all SKUs, meaning small pricing changes cause disproportionately large volume shifts — both opportunities and risks.
 
-**Trade Spend Efficiency (TSE)** analysis shows that **Digital and Price Discount mechanics destroy value**, while Display and BOGO deliver only marginal or breakeven returns. This highlights poor promo–investment alignment and the urgent need for a data-driven framework.
+Trade Spend Efficiency (TSE) analysis shows that Digital and Price Discount mechanics destroy value, while Display and BOGO deliver only marginal or breakeven returns. NPV and IRR analysis confirms the trade-off: while Price Discounts deliver the highest absolute NPV (SAR 77.5M), they are the least efficient promo type (lowest IRR at 35.7%). In contrast, Display promotions offer the strongest efficiency (IRR = 43.4%), balancing both value and return.
+
+Break-even analysis indicates that Kenvue must sell ~154,236 units (SAR 7.3M in sales) just to recover fixed promo investments, underscoring the importance of promo precision.
 
 **Key Pain Points:**
 * SAR 831M total net Sales over the period.
