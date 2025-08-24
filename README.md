@@ -379,7 +379,8 @@ Digital         -0.2393
 * Strengthen **e-commerce governance** (Amazon, Noon).
 * Mitigate **returns-driven margin erosion** by aligning promos with demand cycles.
 
-![Screenshot_16-8-2025_131239_chat deepseek com](https://github.com/user-attachments/assets/17a54d1e-bede-4de0-95ed-cfc81d25f627)
+
+![Screenshot_24-8-2025_22142_chatgpt com](https://github.com/user-attachments/assets/09705364-28bf-4e66-b747-de1572944878)
 
 
 ---
