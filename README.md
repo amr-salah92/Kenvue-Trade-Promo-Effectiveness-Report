@@ -185,6 +185,24 @@ Digital         -0.2393
 | Jeddah | Nahdi    | PROD_045_200g    | -34.9124 |
 | Mecca  | Panda    | PROD_024_100g    | -52.5632 |
 
+**Insights from Budget Reallocation (50M SAR):**
+
+1. **ROI-Driven Allocation:**
+
+   * The reallocation directs **100% of the 50M SAR budget** only toward **positive ROI promo–retailer–region combinations**, eliminating spend on value-destructive mechanics.
+   * Top beneficiaries: **Noon Jeddah (SAR 6.45M)** and **Amazon Khobar (SAR 5.77M)**, both linked to historically high ROI SKUs (*PROD\_025\_30ml*, *PROD\_042\_200g*).
+
+2. **Regional Weighting:**
+
+   * **Jeddah & Mecca combined absorb \~44% of total reallocation**, consistent with their role as ROI growth engines (e.g., Noon Jeddah 90.55 ROI, Amazon Mecca 75.16 ROI).
+   * **Riyadh (\~21% allocation)** strengthens mid-tier ROI plays (Amazon/Noon \~40 ROI range), while **Dammam & Khobar (\~37%)** get balanced funding to hedge share losses.
+
+3. **Retailer Prioritization:**
+
+   * **Amazon (\~45% allocation)** dominates due to consistent high-ROI wins across regions (Mecca, Riyadh, Khobar).
+   * **Noon (\~41%)** secures the second-highest share, led by its standout Jeddah performance (90.55 ROI).
+   * Other retailers (Panda, Nahdi, Carrefour, Lulu) receive **0 allocation**, reflecting persistent negative ROI and margin erosion.
+
 ---
 
 ### **J. Discount Leakage**
@@ -385,33 +403,38 @@ Digital         -0.2393
 
 ---
 
-## **4. Recommendations**
 
+## **4. Recommendations**
 
 ### **1. Promo Optimization**
 
-* **Prioritize Display promotions** → highest IRR and sustainable efficiency.
-* Use **Price Discounts sparingly** → only on high-elastic SKUs; cap discounts at 10–15%.
-* Redesign **Digital strategy** (better segmentation + CPC control) before scaling.
-* Apply **NPV + IRR dual filter** to evaluate all promo plans.
+* **Double down on Display promotions** as the most efficient lever (highest IRR, positive TSE).
+* **Limit Price Discounts** to **high-elastic SKUs only**, with strict caps of 10–15% to avoid margin erosion.
+* **Restructure Digital promotions** through advanced audience segmentation and tighter CPC governance before further investment.
+* Apply a **dual-screening model (NPV + IRR)** to greenlight only value-accretive promo campaigns.
+
+---
 
 ### **2. Investment Discipline**
 
-* **Freeze low-return trade investments** until validated via test-and-learn.
-* Introduce **break-even gating**: require forecasted unit sales ≥154K for promo approval.
-* Set TSE ≥0.05 and IRR ≥40% as minimum thresholds.
+* **Suspend underperforming trade investments** until validated via A/B testing or pilot results.
+* Enforce **break-even gating**: require forecasted sales ≥154K units for promo approval.
+* Establish **hard thresholds**: TSE ≥0.05 and IRR ≥40% as minimum criteria for funding.
+
+---
 
 ### **3. Channel & Retailer Strategy**
 
-* **Expand Panda partnerships** (regional bundling + co-funding).
-* Allocate **>40% of promo budget to Mecca (Panda + Amazon)** → proven ROI hot spots.
-* Reinforce leakage governance in Amazon & Noon with SKU-level discount caps.
+* **Scale strategic Panda partnerships** via regional bundles and co-funded programs.
+* Concentrate **>40% of promo budget in Mecca (Panda + Amazon)** — the most consistent ROI growth zone.
+* Tighten **leakage governance in Amazon & Noon** by applying SKU-level discount ceilings and real-time monitoring.
+
+---
 
 ### **4. Returns Governance**
 
-* Sync promotions with **demand cycles** to cut return spikes.
-* Limit quarter-end push promotions that inflate returns.
-
+* **Align promotions with true demand cycles** to mitigate January/Q4 return spikes.
+* **Reduce quarter-end push mechanics** (bulk sell-ins, aggressive bundles) that inflate downstream returns.
   
 ---
 
