@@ -205,7 +205,7 @@ Digital         -0.2393
 
 ---
 
-### **J. Discount Leakage**
+### **I. Discount Leakage**
 
 **By SKU (Overall)**
 
@@ -227,7 +227,7 @@ Digital         -0.2393
 
 ---
 
-### **K. Competitive Share Loss Analysis**
+### **J. Competitive Share Loss Analysis**
 
 * Largest share losses:
 
@@ -237,7 +237,7 @@ Digital         -0.2393
 
 ---
 
-### **L. Loss & GTN Analysis**
+### **K. Loss & GTN Analysis**
 
 * **Total Losses:** -SAR 93,671.46
 * **Top Loss Products:**
@@ -259,7 +259,7 @@ Digital         -0.2393
 
 ---
 
-### **M. Dynamic Threshold Promotion Insights**
+### **L. Dynamic Threshold Promotion Insights**
 
 ⚙️ **Thresholds Applied:**
 
@@ -311,7 +311,7 @@ Digital         -0.2393
 * **Al-Dawaa = deprioritize (negative priority score).**
 ---
 
-### **K. Returns Analysis Over Time**
+### **M. Returns Analysis Over Time**
 
 📊 **Monthly Trends:**
 
@@ -384,6 +384,30 @@ Digital         -0.2393
 | 2025-04-01  | 28,528,733.71     | 28,166,899.36       | +1.28%       |
 | 2025-05-01  | 28,954,791.85     | 29,393,899.67       | -1.49%       |
 | 2025-06-01  | 28,115,368.02     | 28,123,555.40       | -0.03%       |
+
+---
+
+### **O. Inventory — Reorder Levels (Reorder Point / ROP)**
+
+**Table: Per-SKU Recommended Reorder Level (units)**
+
+| ProductID | ReorderLevel |
+| --------: | -----------: |
+| PROD\_001 |   2,870.8750 |
+| PROD\_002 |   2,766.7270 |
+| PROD\_003 |   2,578.9167 |
+| PROD\_004 |   2,736.5241 |
+| PROD\_005 |   2,974.1250 |
+| PROD\_006 |   2,730.1535 |
+| PROD\_007 |   2,832.3980 |
+| PROD\_008 |   2,817.1393 |
+| PROD\_009 |   2,641.5943 |
+| PROD\_010 |   2,654.2434 |
+
+**What these numbers represent**
+
+* Each value is the recommended **Reorder Point (ROP)** for the SKU — i.e., the inventory level at which a replenishment order should be triggered so that stock arrives before expected stockout, accounting for average demand, lead time and safety stock.
+ 
 
 ---
 ## **3. Strategic Implications**
