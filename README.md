@@ -91,7 +91,8 @@ Break-even analysis defines the minimum performance hurdle a promotion must clea
 The high break-even volume explains why so many promotions fail. Our current mechanics, especially Digital and Price Discounts, often fail to clear this hurdle. **We must use this 154k unit threshold as a gating criterion before approving any promo activity.**
 
 ---
-
+![Screenshot_24-8-2025_22142_chatgpt com](https://github.com/user-attachments/assets/09705364-28bf-4e66-b747-de1572944878)
+---
 ## 3. Recommendations & Action Plan
 
 ### Phase 1: Immediate Firefighting (Next 90 Days)
